@@ -3,3 +3,18 @@ img {
   width: 200px;
   margin-right: 12px;
 }
+
+.text-cont {
+  border: solid black;
+  background-color: tan;
+}
+
+h1 {
+  position: relative;
+  color: red;
+  left: -20px;
+}
+
+.right {
+  padding-left: 40px;
+}
